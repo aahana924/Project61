@@ -1,0 +1,96 @@
+#start{
+    text-align: right;
+}
+#disney{
+  width:300px;
+  height:200px;
+  float:left;
+  margin-right:10px;
+  margin-bottom:10px;
+  margin-top:10px;
+  text-align:left;
+
+}
+#disney1{
+  width:300px;
+  height:200px;
+  float:left;
+  margin-right:10px;
+  margin-bottom:10px;
+  margin-top:10px;
+  text-align:left;
+
+}
+div{
+   text-align:justify;
+}
+body{
+  background-color:#EC407A;
+  color:white;
+  font-family:cursive;
+
+}
+
+h1{
+  text-decoration:underline;
+  font-family: 'Shadows Into Light', cursive;
+}
+.links{
+    
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+    padding-top: 10px;
+     padding-right: 20px;
+     padding-left: 20px;
+     padding-bottom: 20px;
+
+    float: left;
+}
+.menu{
+    
+  list-style: none;
+    font-family: monospace;
+    position:absolute;
+    top: 0px;
+    right: 10px;
+   left:250px;
+    cursor: pointer;
+    z-index: 10;
+}
+.links:hover{
+  color: red;
+    background-color:aqua;
+}
+.gallery{
+    border: solid 50px white;
+}
+#gallery{
+    text-align: center;
+}
+#disneyland{
+    text-align: center;
+
+}
+#video{
+         border: solid 50px white; 
+}
+a{
+    text-decoration: none;
+}
+#learn{
+    text-align: center;
+}
+#aahana1{
+    border-radius: 200px;
+    text-align: right;
+}
+#aahana{
+    border-radius: 200px;
+}
+img:hover{
+  transform: rotate3d(0, 1, 0.5, 3.142rad);
+   transform: scale(2,1);
+}
+#contact{
+    text-align: center;
+}
